@@ -1,0 +1,23 @@
+td {
+  width: 35px;
+  height: 55px;
+  background-color: #d5d5d5;
+  padding: 10px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #ffffff;
+}
+
+table {
+  border: 1px solid #080808;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+#action {
+  text-align: center;
+}
+
+#reset {
+  display: none;
+}
